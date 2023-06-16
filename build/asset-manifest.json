@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03f49cef.css",
+    "main.js": "/static/js/main.2eab62af.js",
+    "static/media/cover img.jpg": "/static/media/cover img.0eb10cef7ef5cd765084.jpg",
+    "static/media/Poster-1-Kalalaya-Inaguration-11-2011-scaled.jpg": "/static/media/Poster-1-Kalalaya-Inaguration-11-2011-scaled.4ffd34c423226858650e.jpg",
+    "static/media/School Of Indian Dance and Music.jpg": "/static/media/School Of Indian Dance and Music.7f508411eaa1e507f00c.jpg",
+    "static/media/Bollywood-1-2020-21.jpg": "/static/media/Bollywood-1-2020-21.f26ff254db39890c5fcc.jpg",
+    "static/media/cropped-Priya-Mohiniyattam.jpg": "/static/media/cropped-Priya-Mohiniyattam.63c8696fdd64ad1b3d64.jpg",
+    "static/media/cropped-Ramesh-Sitar-1.webp": "/static/media/cropped-Ramesh-Sitar-1.c8c9f0a33c59fd4eefc2.webp",
+    "static/media/kalalaya-logo2-01.webp": "/static/media/kalalaya-logo2-01.963c671dd2df51dfab2d.webp",
+    "index.html": "/index.html",
+    "main.03f49cef.css.map": "/static/css/main.03f49cef.css.map",
+    "main.2eab62af.js.map": "/static/js/main.2eab62af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f49cef.css",
+    "static/js/main.2eab62af.js"
+  ]
+}
